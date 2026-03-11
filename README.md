@@ -26,11 +26,11 @@ Research Architecture
 
 This repository serves as the theoretical nucleus of a larger research constellation:
 
-lacquer-ontology
-
 lacquer-deep-time
 
 lacquer-civilization
+
+lacquer-ontology
 
 lacquer-moving-image
 
