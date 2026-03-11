@@ -1,107 +1,70 @@
-This repository serves as the central hub of the Lacquer Civilization Research System.
-## Research Modules
+# Lacquer Civilization Theory
 
-- Lacquer Ontology → philosophical foundation
-- Lacquer Deep-Time → temporal theory
-- Lacquer Civilization → macro-historical systems
-- Lacquer Moving Image → media translation
-Lacquer Civilization Theory
-Global Material Humanities Research Program
-
-This repository serves as the central theoretical hub of an ongoing transdisciplinary research program investigating lacquer as a foundational material system shaping civilizations, temporal perception, technological durability, and cultural memory.
+This repository serves as the central theoretical hub of the **Lacquer Civilization Research System**, an interdisciplinary research program investigating lacquer as a foundational material infrastructure shaping civilizational time, knowledge systems, and cultural continuity.
 
 Rather than approaching lacquer merely as a craft tradition or aesthetic medium, this research proposes lacquer as:
 
-A deep material infrastructure of civilization
+- A deep-time material archive  
+- A temporal infrastructure of civilization  
+- A technological system of durability and preservation  
+- A carrier of ritual continuity and cultural memory  
+- A material epistemology shaping knowledge production  
+- A bridge between ancient craft and contemporary media systems  
 
-A temporal technology of historical continuity
+---
 
-A carrier of epistemological and ritual structures
+## Research Architecture
 
-A material ontology linking nature, labor, authority, and imagination
+This repository functions as the theoretical nucleus of a broader research constellation:
 
-This repository establishes the conceptual foundations for a broader constellation of research modules spanning archaeology, philosophy, material science, media theory, and artistic practice.
+### Core Theoretical Modules
 
-🧭 Conceptual Premise
+- **Lacquer Ontology**  
+  Philosophical foundations of lacquer as material being and temporal medium  
 
-Across East Asian history, lacquer has functioned not only as a surface treatment or artistic technique, but as a structural material system enabling durability, governance, ritual persistence, and visual knowledge transmission.
+- **Lacquer Deep-Time**  
+  Archaeological persistence, material temporality, and historical endurance  
 
-Its archaeological persistence — often surviving where organic substrates have disappeared — positions lacquer as a unique archive of deep material time.
+- **Lacquer Civilization**  
+  Macro-historical systems, state formation, and civilizational material infrastructures  
 
-This research approaches lacquer as:
+- **Lacquer Moving Image**  
+  Translation of lacquer temporality into cinematic, animation, and AI visual systems  
 
-A deep-time material archive
+---
 
-A temporal infrastructure of civilization
+### Future Research Domains
 
-A technological system of preservation and durability
+- Lacquer Material Science  
+- Lacquer Ritual Systems  
+- Lacquer Exhibition Systems  
+- Lacquer Artistic Practice  
+- Lacquer Publications  
 
-A carrier of cultural memory and ritual continuity
+Together these form an integrated framework linking:
 
-A material epistemology shaping knowledge production
+- archaeology  
+- material science  
+- philosophy  
+- art history  
+- media theory  
+- artistic practice  
 
-A bridge between ancient craft and contemporary media systems
+---
 
-🧠 Research Architecture
+## Long-term Objectives
 
-This repository functions as the theoretical nucleus of an integrated research framework composed of multiple specialized modules:
+- Establish lacquer as a central concept in global material humanities  
+- Construct a comprehensive theory of civilizational material systems  
+- Develop museum-scale research and exhibition programs  
+- Integrate artistic practice as a mode of theoretical production  
+- Expand lacquer research into cinematic, literary, and digital domains  
+- Position East Asian lacquer within global intellectual discourse  
 
-Core Research Modules
+---
 
-Lacquer Ontology
-Philosophical investigation of lacquer as a material mode of being and knowledge formation.
+## Author
 
-Lacquer Deep-Time
-Study of temporal endurance, archaeological persistence, and long-duration material aesthetics.
-
-Lacquer Civilization
-Examination of lacquer as a macro-historical infrastructure shaping political, ritual, and technological systems.
-
-Lacquer Moving Image
-Exploration of lacquer as a temporal and visual language within cinema, animation, and AI-generated media.
-
-Future Modules
-
-Lacquer Material Science
-
-Lacquer Ritual Systems
-
-Lacquer Media Archaeology
-
-Lacquer Environmental Ontology
-
-Together these modules form a transdisciplinary research constellation linking:
-
-archaeology
-
-material science
-
-philosophy
-
-art history
-
-media theory
-
-artistic practice
-
-🌐 Research Vision
-
-This project seeks to:
-
-Establish lacquer as a central concept within global material humanities
-
-Construct a comprehensive theory of civilizational material systems
-
-Develop museum-scale research and exhibition platforms
-
-Integrate artistic practice as a mode of theoretical production
-
-Expand lacquer research into cinematic, literary, and digital domains
-
-Position East Asian lacquer traditions within global intellectual discourse
-
-🧑‍🎨 Author
-
-Nabi Jie Pang
-Alberta Lacquer Art & Media Center
+Nabi Jie Pang  
+Alberta Lacquer Art & Media Center  
 Calgary, Canada
