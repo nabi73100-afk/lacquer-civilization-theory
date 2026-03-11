@@ -1,3 +1,10 @@
+This repository serves as the central hub of the Lacquer Civilization Research System.
+## Research Modules
+
+- Lacquer Ontology → philosophical foundation
+- Lacquer Deep-Time → temporal theory
+- Lacquer Civilization → macro-historical systems
+- Lacquer Moving Image → media translation
 Lacquer Civilization Theory
 Global Material Humanities Research Program
 
