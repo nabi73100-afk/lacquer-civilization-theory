@@ -1,3 +1,22 @@
+## Lacquer Civilization Research System
+
+This repository functions as the central theoretical hub of a distributed research system.
+
+### Core Repositories
+
+- [Lacquer Ontology](https://github.com/你的用户名/lacquer-ontology)
+- [Lacquer Deep-Time](https://github.com/你的用户名/lacquer-deep-time)
+- [Lacquer Civilization](https://github.com/你的用户名/lacquer-civilization)
+- [Lacquer Moving Image](https://github.com/你的用户名/lacquer-moving-image)
+  
+This research system treats lacquer not as an object of study, but as a material infrastructure through which civilizations construct time, memory, authority, and knowledge.
+
+### Future Research Domains
+
+- Lacquer Material Science  
+- Lacquer Ritual Systems  
+- Lacquer Exhibition Systems  
+- Lacquer Artistic Practice  
 # Lacquer Civilization Theory
 
 This repository serves as the central theoretical hub of the **Lacquer Civilization Research System**, an interdisciplinary research program investigating lacquer as a foundational material infrastructure shaping civilizational time, knowledge systems, and cultural continuity.
