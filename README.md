@@ -2,12 +2,12 @@
 
 This repository functions as the central theoretical hub of a distributed research system.
 
-### Core Repositories
+## Core Repositories
 
-- [Lacquer Ontology](https://github.com/你的用户名/lacquer-ontology)
-- [Lacquer Deep-Time](https://github.com/你的用户名/lacquer-deep-time)
-- [Lacquer Civilization](https://github.com/你的用户名/lacquer-civilization)
-- [Lacquer Moving Image](https://github.com/你的用户名/lacquer-moving-image)
+- [Lacquer Ontology](https://github.com/nabi73100-afk/lacquer-ontology)
+- [Lacquer Deep-Time](https://github.com/nabi73100-afk/lacquer-deep-time)
+- [Lacquer Civilization](https://github.com/nabi73100-afk/lacquer-civilization)
+- [Lacquer Moving Image](https://github.com/nabi73100-afk/lacquer-moving-image)
   
 This research system treats lacquer not as an object of study, but as a material infrastructure through which civilizations construct time, memory, authority, and knowledge.
 
